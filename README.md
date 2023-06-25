@@ -1,15 +1,15 @@
-Bitcoin Core integration/staging tree
+Aytya Core integration/staging tree
 =====================================
 
-https://bitcoincore.org
+http://aytya.com
 
-For an immediately usable, binary version of the Bitcoin Core software, see
-https://bitcoincore.org/en/download/.
+For an immediately usable, binary version of the Aytya Core software, see
+httpa://aytya.com/en/download/.
 
-What is Bitcoin Core?
+What is Aytya Core?
 ---------------------
 
-Bitcoin Core connects to the Bitcoin peer-to-peer network to download and fully
+Aytya Core connects to the Bitcoin peer-to-peer network to download and fully
 validate blocks and transactions. It also includes a wallet and graphical user
 interface, which can be optionally built.
 
@@ -18,7 +18,7 @@ Further information about Bitcoin Core is available in the [doc folder](/doc).
 License
 -------
 
-Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Aytya Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
